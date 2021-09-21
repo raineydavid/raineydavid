@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 
 ### 📬 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-andrietaam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/womencancode/)](https://www.linkedin.com/company/womencancode)
+[![Linkedin Badge](https://img.shields.io/badge/-womencancode-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/womencancode/)](https://www.linkedin.com/company/womencancode)
 
 <!--
 **raineydavid/raineydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
