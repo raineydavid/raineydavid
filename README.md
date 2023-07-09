@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 💃 I’m currently working on advancing Women In Tech via [WomenCanCode](https://womencancode.com)
-- 🌱 learning cloud via AWS, Azure, Google Cloud
+- 🎓 I'm a University Lecturer
+- 🌱 Trying to build AI Assisted tools to support AWS, Azure, Google Cloud and Open Source 
 - 👯 I’m looking to collaborate on AI, ML and DS
 - 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement
 - 😄 Pronouns: she/her
