@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 💃 I’m currently working on advancing Women In Tech via [WomenCanCode](https://womencancode.com)
+- 💃 I’m currently working on outcomes driven programs: advancing Black Staff and Students in Education via [BlackInEducation](https://blackineducation.com),advancing Women In Tech via [WomenCanCode](https://womencancode.com)
 - 🎓 I'm a University Lecturer
-- 🌱 Trying to build AI Assisted tools to support AWS, Azure, Google Cloud and Open Source 
+- 🌱 Building AI Assisted tools to support initiatives on AWS, Azure, Google Cloud and Open Source 
 - 👯 I’m looking to collaborate on AI, ML and DS
-- 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement
+- 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement, inequalities, leadership
 - 😄 Pronouns: she/her
 
 ### 📬 Get in touch
