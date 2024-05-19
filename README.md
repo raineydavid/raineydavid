@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-- 💃 I’m currently working on advancing Women In Tech via [WomenCanCode](https://womencancode.com)
+- 💃 I’m currently working on advancing people in tech / education
+- 💰 If I provide value for you or you want to help pay it forward, sponsor me.
+- 🎯 I run bespoke training for Individuals, Women and Black in Education
 - 🎓 I'm a University Lecturer
-- 🌱 Trying to build AI Assisted tools to support AWS, Azure, Google Cloud and Open Source 
+- 🌱 I build AI Assisted tools on AWS, Azure, Google Cloud and Open Source 
 - 👯 I’m looking to collaborate on AI, ML and DS
 - 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement
 - 😄 Pronouns: she/her
 
 ### 📬 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-womencancode-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/womencancode/)](https://www.linkedin.com/company/womencancode)
 
 <!--
 **raineydavid/raineydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
