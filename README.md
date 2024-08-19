@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 💃 I’m currently working on advancing people in tech / education
-- 💰 If I provide value for you or you want to help pay it forward, sponsor me.
+- 💰 If I provide value for you or you want to help pay it forward, pay me or sponsor me.
 - 🎯 I run bespoke training for Individuals, Women and Black in Education
 - 🎓 I'm a University Lecturer
 - 🌱 I build AI Assisted tools on AWS, Azure, Google Cloud and Open Source 
-- 👯 I’m looking to collaborate on AI, ML and DS
+- 👯 I’m looking to collaborate on AI, ML, DS and Web3
 - 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement
 - 😄 Pronouns: she/her
 
