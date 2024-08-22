@@ -1,12 +1,25 @@
 ### Hi there 👋
 
-- 💃 I’m currently working on advancing people in tech / education
+- 💃 I’m currently working on outcomes driven programs
 - 💰 If I provide value for you or you want to help pay it forward, pay me or sponsor me.
-- 🎯 I run bespoke training for Individuals, Women and Black in Education
-- 🎓 I'm a University Lecturer
-- 🌱 I build AI Assisted tools on AWS, Azure, Google Cloud and Open Source 
-- 👯 I’m looking to collaborate on AI, ML, DS and Web3
-- 💬 Ask me about getting into tech, learning in public, salary negotiation, data science, career advancement
+- 🎓 I'm an Entrepreneur and have experience as 
+    - University Lecturer 
+    - Project Manager for EMEA and APAC
+    - Solutions Architect
+    - Data Scientist
+    - Software Developer
+- 🌱 I build AI Assisted tools to support initiatives on AWS, Azure, Google Cloud and Open Source 
+- 👯 I’m looking to collaborate on AI, ML and DS and Web3
+- 💬 Ask me about:
+    - getting into tech
+    - learning in public
+    - salary negotiation
+    - data science
+    - career advancement
+    - overcoming barriers
+    - leadership
+    - learning and development
+
 - 😄 Pronouns: she/her
 
 ### 📬 Get in touch
@@ -25,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
