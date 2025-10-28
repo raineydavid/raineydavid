@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![banner](./banner.png)
 - 💃 I’m currently working on advancing people in tech / education
 - 💰 If I provide value for you or you want to help pay it forward, pay me or sponsor me.
 - 🎯 I run bespoke training for Individuals, Women and Black in Education
